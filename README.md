@@ -1,16 +1,20 @@
-## Hi there 👋
+# Siragudin Guseynov
 
-<!--
-**Siragudin/Siragudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creator and developer of **LiteCAD** — a lightweight 2D CAD application for Windows.
 
-Here are some ideas to get you started:
+[![LiteCAD](https://img.shields.io/badge/LiteCAD-0.4.2-blue)](https://github.com/Siragudin/LiteCad)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### [LiteCAD](https://github.com/Siragudin/LiteCad)
+
+A lightweight 2D CAD application for technical drawings, plans, and elevations.
+
+**Current version:** 0.4.2 Beta
+
+- Windows desktop application
+- Russian / English interface
+- 2D drawing and editing tools
+- Dimensions, leaders and text annotations
+- Snapping and precise numeric input
+- PDF preview and export
