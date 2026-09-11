@@ -31,6 +31,7 @@
 ---
 
 ## 📫 Контакты / Contacts
+* **Email:** siragudinguseynov@gmail.com
 * **LinkedIn:** [(https://www.linkedin.com/in/siragudin-guseynov-21104a40a/?skipRedirect=true)]
 * **GitHub:** [Siragudin](https://github.com/Siragudin)
 
