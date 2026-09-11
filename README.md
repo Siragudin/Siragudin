@@ -1,20 +1,28 @@
 # Siragudin Guseynov / Сиражудин Гусейнов
 
-Creator and developer of **LiteCAD** — a lightweight 2D CAD application for Windows.
+Привет! Я разработчик и проектировщик цифровых систем. Создаю прикладной софт для инженеров и исследую новые концепты в геймдизайне.
 
-[![LiteCAD](https://img.shields.io/badge/LiteCAD-0.4.2-blue)](https://github.com/Siragudin/LiteCad)
+---
 
-## Featured Project
+## 🛠 Мои проекты / My Projects
 
-### [LiteCAD](https://github.com/Siragudin/LiteCad)
+### 📐 LiteCAD
+Легковесное 2D CAD-приложение для создания технических чертежей, планов и схем под Windows.
+* **Текущая версия:** 0.4.2 Beta
+* **Стек/Фичи:** Десктоп на Windows, поддержка двух языков (RU/EN), точный ввод, привязки, экспорт в PDF.
 
-A lightweight 2D CAD application for technical drawings, plans, and elevations.
+### 🎮 SNW: Live Anyway
+Концептуальная хардкорная песочница, построенная на базе философии **Simulation-Native Worlds**.
+* **Статус:** Концептуальный дизайн-документ (40+ страниц архитектуры).
+* **Фичи:** Мир как живая непрерывная система (вычисляется без наблюдателя), ИИ-модели среды (GameAI), эмерджентная геополитика, перманентная смерть и прокачка реальных навыков человека за монитором.
+* **Лицензия:** CC BY-NC-ND 4.0.
 
-**Current version:** 0.4.2 Beta
+---
 
-- Windows desktop application
-- Russian / English interface
-- 2D drawing and editing tools
-- Dimensions, leaders and text annotations
-- Snapping and precise numeric input
+## 📫 Контакты / Contacts
+* **LinkedIn:** [Ваша ссылка]
+* **GitHub:** [Siragudin](https://github.com/Siragudin)
+
+© 2026 Siragudin Guseynov
+
 - PDF preview and export
