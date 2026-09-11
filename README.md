@@ -1,4 +1,4 @@
-# Siragudin Guseynov
+# Siragudin Guseynov / Сиражудин Гусейнов
 
 Creator and developer of **LiteCAD** — a lightweight 2D CAD application for Windows.
 
