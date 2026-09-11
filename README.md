@@ -25,4 +25,4 @@
 
 © 2026 Siragudin Guseynov
 
-- PDF preview and export
+
