@@ -8,7 +8,7 @@
 
 ### 📐 LiteCAD
 Легковесное 2D CAD-приложение для создания технических чертежей, планов и схем под Windows.
-* **Текущая версия:** 0.4.2 Beta
+* **Текущая версия:** 0.4.5 Beta
 * **Стек/Фичи:** Десктоп на Windows, поддержка двух языков (RU/EN), точный ввод, привязки, экспорт в PDF.
 
 ### 🎮 SNW: Live Anyway
@@ -20,7 +20,7 @@
 ---
 
 ## 📫 Контакты / Contacts
-* **LinkedIn:** [Ваша ссылка]
+* **LinkedIn:** [(https://www.linkedin.com/in/siragudin-guseynov-21104a40a/?skipRedirect=true)]
 * **GitHub:** [Siragudin](https://github.com/Siragudin)
 
 © 2026 Siragudin Guseynov
