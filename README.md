@@ -13,7 +13,7 @@ A lightweight, high-performance 2D CAD application for technical drafting, bluep
 
 *   **Status:** `0.4.5 Beta`
 *   **Stack:** Windows native (WPF / .NET 10), dual-language engine (RU/EN), precision input matrix, object snapping, semantic vector PDF export
-*   **Repo:** [Siragudin/LiteCad](https://github.com)
+*   **Repo:** [Siragudin/LiteCad](https://github.com/Siragudin/LiteCad)
 *   **License:** MIT
 
 ---
@@ -23,7 +23,7 @@ A secure, fast, and fully private mobile 2D CAD editor for on-the-go engineering
 
 *   **Status:** `1.0.0 (RuStore)`, mobile port of the core Windows engine
 *   **Stack:** Kotlin, Jetpack Compose, single-activity UDF architecture, 100% offline (zero telemetry, no network permissions), adaptive themes, advanced object snapping, pixel-perfect magnifier, native PDF / DXF (R12) export
-*   **Repo:** [Siragudin/LiteCAD-Android](https://github.com-Android)
+*   **Repo:** [Siragudin/LiteCAD-Android](https://github.com/Siragudin/LiteCAD-Android)
 *   **License:** MIT
 
 ---
@@ -34,6 +34,7 @@ A simple, reliable tool for managing construction sites directly from a smartpho
 *   **Status:** `2.0.0 Stable`
 *   **Stack:** Kotlin, Android, Jetpack Compose, Room, Firebase, Google Sign-In, PDF generation
 *   **Features:** per-site work and material tracking, financial control, branded PDF reports (logo, stamp), cloud sync, dark theme
+*   **Repo:** ,[Siragudin/Prorab].(https://github.com/Siragudin/Prorab).
 *   **License:** MIT
 
 ---
