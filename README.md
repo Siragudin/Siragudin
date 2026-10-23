@@ -44,6 +44,7 @@ A conceptual architecture and protocol for an interactive, decentralized geo-map
 
 *   **Status:** Conceptual specification / ready for development
 *   **Design:** spatial indexing, geofencing, cryptographically enforced long-term unlock timers for deep-time data persistence; React/Vue + MapLibre, FastAPI/Node/Go, PostgreSQL + PostGIS + S3
+*   **Repo:** [Siragudin/geo-time-capsules](https://github.com/Siragudin/geo-time-capsules)
 *   **License:** [CC BY-NC-ND 4.0](https://creativecommons.org)
 
 ---
@@ -53,7 +54,7 @@ A protocol layer for unstructured idea processing, semantic weight evaluation, a
 
 *   **Status:** Open reference design (full specifications and books in `docs/`)
 *   **Design:** dual-loop network model (ASI handles proactive creative signals, GSI handles institutional requests), semantic caching to reduce LLM compute overhead, zero-knowledge identity isolation (Identity vs. Reputation), network self-regulation via dynamic peer-to-peer isolation of malicious actors
-*   **Repo:** [Siragudin/ASI-GSI-](https://github.com)
+*   **Repo:** [Siragudin/ASI-GSI-](https://github.com/Siragudin/ASI-GSI-)
 *   **License:** MIT
 
 ---
@@ -63,6 +64,7 @@ A hardcore sandbox concept built directly on the **Simulation-Native Worlds** ar
 
 *   **Status:** Conceptual design document (`40+ pages` of core architecture)
 *   **Design:** infinite hex-cell map with dynamic fractal expansion, four safety rings (Citadel / Suburb / Gray Zone / Wild Territory), permanent character death with medical evacuation insurance, emergent geopolitics and player-driven law, four crafting tiers, macro-logistics with economic blockades
+*   **Repo:** [Siragudin/SNW-Live-Anyway](https://github.com/Siragudin/SNW-Live-Anyway)
 *   **License:** [CC BY-NC-ND 4.0](https://creativecommons.org)
 
 ---
@@ -72,7 +74,7 @@ An architectural philosophy and development framework for digital realities that
 
 *   **Status:** Book series published (*SNW I — Worlds of Native Simulation*, *SNW II — Material Architecture*, *SNW III — World Architecture*) in `docs/`
 *   **Philosophy:** *"Don't play worlds. Live in them."*
-*   **Repo:** [Siragudin/SNW](https://github.com)
+*   **Repo:** [Siragudin/SNW](https://github.com/Siragudin/SNW)
 *   **License:** MIT
 
 ---
