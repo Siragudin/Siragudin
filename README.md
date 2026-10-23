@@ -34,7 +34,7 @@ A simple, reliable tool for managing construction sites directly from a smartpho
 *   **Status:** `2.0.0 Stable`
 *   **Stack:** Kotlin, Android, Jetpack Compose, Room, Firebase, Google Sign-In, PDF generation
 *   **Features:** per-site work and material tracking, financial control, branded PDF reports (logo, stamp), cloud sync, dark theme
-*   **Repo:** [Siragudin/Prorab].(https://github.com/Siragudin/Prorab).
+*   **Repo:** [Siragudin/Prorab](https://github.com/Siragudin/Prorab)
 *   **License:** MIT
 
 ---
